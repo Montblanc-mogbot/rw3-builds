@@ -1,0 +1,14 @@
+record_id: screenshot-70252db117ff01e9.jpg
+split: dev
+notes: >
+  Orb build, realm 19 victory. Heavy OCR noise (Harlord Heln = Warlord Helm, Monkey Skull
+  Anulet, Orb Controller s Mitts). Learn a Spell (idx 46) comes before Craft Equipment (60), so
+  Arcane Tome .. Caustic Sprig are still in the Equipment column.
+spells:
+  Orb of Unraveling: [Locus of Chaos, Unraveling Curse]
+  Orb of Night: [Engulfing Darkness, Dark Detonation]
+  Thunder Strike: []
+  Mystic Power: [Explosive Power]
+equipment: [Warlord Helm, Battlemage Staff, Cyst of Eternal Bloom, Assassin, Monkey Skull Amulet, Geometer's Staff,
+            Fae Plate, Spirit Visor, Vial of Ambrosia, Orb Tome, Orb Controller's Mitts, Arcane Tome, Icy Claw Staff,
+            Flaming Claw Staff, Boreal Armor, Caustic Sprig]

@@ -1,0 +1,44 @@
+record_id: 2026-06-26_17_38_57-Discord_Overlay-27d521ade7a0027a.png
+split: heldout
+notes: >
+  Discord-overlay capture of a drake build; "Outcone: VICTORY". Craft Equipment comes very late
+  (idx 97) so Jaculus Idol at idx 24 is in the Equipment column (owned). Two Dragon Mage lines
+  with four owned drakes - parents cannot be decided from text (line order suggests Void Drake
+  and Gold Drake) - all candidate pairs uncertain. Seal Fate only appears as "5 Seal Fate" in the
+  casts list - uncertain whether owned. "Claw Staff" (Icy vs Flaming Claw Staff, a lone "Icy"
+  later) uncertain; "Amphisbaena"+"Ring" and "Marksman"+"Cap" complete uniquely.
+spells:
+  Dragon Claw: [Dragon Tutor, Frenzied Swipes]
+  Void Drake: [Void Mutations]
+  Healing Light: [Shielding Light, Purifying Light]
+  Fire Drake: []
+  Ice Drake: [Cold Embrace]
+  Gold Drake: [Immortal Dragon]
+  Golden Skull: []
+  Wyrm Eggs: []
+  Blink: []
+  Magic Missile: [Shield Burn, Disruption Bolt]
+equipment:
+  - Conjuration Staff
+  - Fae Plate
+  - Drakenstaff
+  - Ice Tome
+  - Jaculus Idol
+  - Molten Carapace
+  - Pyrrhic Censer
+  - Sorcery Staff
+  - Dragon Tome
+  - Staff of Heaven's Vengeance
+  - Winged Shoes
+  - Sonic Shields
+  - Amphisbaena Ring
+  - Marksman Cap
+  - Paladin
+  - Macrophagic Mask
+  - Plague Doctor's Mask
+  - Charm Of Darkness
+  - Boreal Armor
+uncertain:
+  spells: [Seal Fate]
+  equipment: [Icy Claw Staff, Flaming Claw Staff]
+  pairs: ["Void Drake::Dragon Mage", "Fire Drake::Dragon Mage", "Ice Drake::Dragon Mage", "Gold Drake::Dragon Mage"]

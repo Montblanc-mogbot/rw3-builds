@@ -1,0 +1,30 @@
+record_id: Capture-3a7628f1314cda79.PNG
+split: heldout
+notes: >
+  Combat-stats-heavy record (Adventuring Party trial). Right pane has a "Casts:" list with
+  number prefixes ("7 Darkness", "14 Dragon Claw", ...), Damage to Enemies/Wizard lists
+  ("9005 Storm Drake", "4313 Chain Lightning" - not owned), and a Purchases log after Learn a
+  Spell. Central Dragon Claw is at idx 66 (between Craft Equipment and Learn a Spell).
+  Quickcast: only owned candidate parent is Teleport.
+spells:
+  Summon Wizard: [Wizard Gang, Dragon Wizard]
+  Summon Rider: [Four Horsemen, Peal of Thunder]
+  Darkness: [Darkvision, Long Night]
+  Teleport: [Quickcast]
+  Essence Flux: [Essence Degradation]
+  Twilight Gaze: []
+  Dragon Claw: []
+equipment:
+  - Book of Four Seals
+  - Banner of the Horde
+  - Finger 6
+  - Brain Hat
+  - Fae Plate
+  - Wyrm Spirit Armor
+  - Vampiric Vestments
+  - Enchantment Staff
+  - Amphisbaena Ring
+  - Robe of Rifts
+  - Drakenstaff
+  - Molten Carapace
+  - Philosopher's Stone

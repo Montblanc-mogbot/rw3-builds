@@ -1,0 +1,16 @@
+record_id: image-daf5791f695fb03b.png
+split: dev
+notes: >
+  Fire build. Hotkey list 1..8 interleaved; "68 Blink" / "M Pillar of Fire" are hotkey lines.
+  Dragon Claw appears twice (hotkey + central) with no upgrades.
+spells:
+  Fireball: [Meteor]
+  Flame Burst: [Bright Flame]
+  Pillar of Fire: [Disrupting Flames, Orbital Bombardment]
+  Dragon Claw: []
+  Blink: []
+  Immolate: []
+  Searing Seal: []
+equipment: [Blazing Wand, Fae Plate, Fire Tome, Brain Hat, Quickstep Boots, Timestriders, Chaos Links,
+            Witch Doctor, Ashen Rod, Disintegrator, Chaos Serpent Staff, Robe of Fire, Robe of Frostfire,
+            Sorcery Staff, Purity Oculus, Blazeblood Staff]

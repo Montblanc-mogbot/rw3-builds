@@ -1,0 +1,72 @@
+run_id,upgrade_name,candidate_spells,owned_candidates,reason,raw_text,line_no
+5,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,440
+43,Freezing,"[""Eye of Ice"", ""Icicle""]","[""Eye of Ice"", ""Icicle""]",several candidate parent spells owned; positional rule disabled by calibration,Freezing,3555
+51,Freezing,"[""Eye of Ice"", ""Icicle""]","[""Eye of Ice"", ""Icicle""]",several candidate parent spells owned; positional rule disabled by calibration,Freezing,4246
+54,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Teleport""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,4563
+62,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Gold Drake"", ""Ice Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,5286
+69,Shield Burn,"[""Death Shock"", ""Magic Missile"", ""Siphon Shields""]","[""Magic Missile"", ""Siphon Shields""]",several candidate parent spells owned; positional rule disabled by calibration,Shield Burn,5825
+100,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Underworld Passage""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,8253
+114,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Teleport""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,9360
+124,Bonus,"[""Mystic Vision""]","[""Mystic Vision""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Bonus,10047
+143,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,11548
+145,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,11711
+148,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Fire Drake"", ""Gold Drake"", ""Ice Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,11945
+151,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Teleport"", ""Underworld Passage""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,12186
+184,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Storm Drake"", ""Void Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,14803
+188,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,15132
+193,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Freeze"", ""Storm Walk"", ""Underworld Passage""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,15513
+213,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,16986
+214,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,17085
+215,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Teleport""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,17141
+221,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,17581
+222,Bonus,"[""Mystic Vision""]","[""Mystic Vision""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Bonus,17675
+229,Radius,"[""Drain Pulse""]","[""Drain Pulse""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Radius,18203
+231,Radius,"[""Drain Pulse""]","[""Drain Pulse""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Radius,18361
+234,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,18549
+260,Bonus,"[""Mystic Vision""]","[""Mystic Vision""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Bonus,20748
+268,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,21547
+272,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Volcanic Eruption""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,22060
+275,Radius,"[""Drain Pulse""]","[""Drain Pulse""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Radius,22326
+279,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,22786
+280,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Gold Drake"", ""Slime Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,22929
+282,Radius,"[""Drain Pulse""]","[""Drain Pulse""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Radius,23146
+290,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Teleport""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,24012
+300,Shield,"[""Heavenly Blast""]",[],could be half of 'Shield Burn' (its other half 'burn' is in the record),Shield,25131
+306,Shield Burn,"[""Death Shock"", ""Magic Missile"", ""Siphon Shields""]","[""Death Shock"", ""Siphon Shields""]",several candidate parent spells owned; positional rule disabled by calibration,Shield Burn,25802
+309,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,26121
+309,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Void Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,26116
+311,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Freeze"", ""Storm Walk""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,26350
+315,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Storm Drake"", ""Void Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,26778
+317,Bonus,"[""Mystic Vision""]","[""Mystic Vision""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Bonus,27001
+333,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Teleport"", ""Underworld Passage""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,28908
+335,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Teleport""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,29123
+337,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Void Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,29332
+338,Freezing,"[""Eye of Ice"", ""Icicle""]","[""Eye of Ice"", ""Icicle""]",several candidate parent spells owned; positional rule disabled by calibration,Freezing,29457
+347,Bonus,"[""Mystic Vision""]","[""Mystic Vision""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Bonus,30478
+366,Bonus,"[""Mystic Vision""]","[""Mystic Vision""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Bonus,32532
+370,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Freeze"", ""Underworld Passage""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,32992
+376,Freezing,"[""Eye of Ice"", ""Icicle""]","[""Icicle""]",could be half of 'Freezing Ice' (its other half 'ice' is in the record),Freezing,33514
+384,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,34413
+393,Invincible Maw,"[""Hungry Maw""]",[],"parent spell not in the build and the upgrade line itself is a weak match (fragment without its other half, or fuzzy) - not used to imply the spell",Invincible,35423
+402,Dragon Mage,"[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake"", ""Void Drake""]","[""Fire Drake"", ""Gold Drake"", ""Ice Drake"", ""Slime Drake"", ""Storm Drake""]",several candidate parent spells owned; positional rule disabled by calibration,Dragon Mage,36617
+405,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,37028
+422,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,38833
+432,Shield Burn,"[""Death Shock"", ""Magic Missile"", ""Siphon Shields""]","[""Death Shock"", ""Siphon Shields""]",several candidate parent spells owned; positional rule disabled by calibration,Shield Burn,39989
+437,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Teleport"", ""Underworld Passage""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,40508
+442,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Freeze"", ""Storm Walk""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,40976
+447,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Freeze"", ""Storm Walk""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,41600
+448,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,41758
+448,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]",[],no candidate parent spell detected in the build,Quick Cast,41689
+465,Freezing,"[""Eye of Ice"", ""Icicle""]","[""Eye of Ice""]",could be half of 'Freezing Ice' (its other half 'ice' is in the record),Freezing,43561
+466,Shield,"[""Heavenly Blast""]",[],could be half of 'Shield Burn' (its other half 'burn' is in the record),Shield,43711
+470,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,44150
+476,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,44787
+495,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,46894
+513,Shield Burn,"[""Death Shock"", ""Magic Missile"", ""Siphon Shields""]",[],no candidate parent spell detected in the build,Shield Burn,48840
+529,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,50639
+541,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Teleport""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,51977
+549,Shield,"[""Heavenly Blast""]",[],could be half of 'Shield Burn' (its other half 'burn' is in the record),Shield,52888
+553,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]",[],no candidate parent spell detected in the build,Quickcast,53278
+557,Shields,"[""Void Drake""]","[""Void Drake""]",generic stat-word upgrade name (also a UI stat label / tail of a wrapped name),Shields,53696
+573,Blindcasting,"[""Blink"", ""Seal Fate"", ""Thunder Strike"", ""Volcanic Eruption""]","[""Blink"", ""Thunder Strike""]",several candidate parent spells owned; positional rule disabled by calibration,Blindcasting,55357
+589,Quickcast,"[""Blinding Light"", ""Freeze"", ""Storm Walk"", ""Teleport"", ""Underworld Passage""]","[""Blinding Light"", ""Teleport"", ""Underworld Passage""]",several candidate parent spells owned; positional rule disabled by calibration,Quickcast,57083

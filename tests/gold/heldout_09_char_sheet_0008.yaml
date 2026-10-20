@@ -1,0 +1,23 @@
+record_id: char_sheet-000802c2d5cffc04.png
+split: heldout
+notes: >
+  Metallic build (Ferromancer trial). Spell Casts / Damage lists repeat spells with numbers.
+  Ring of Magnetic Charisma + EEMM** is the Desired list (after Craft Equipment).
+spells:
+  Summon Blade: [Bladeworks, Swords of Light]
+  Blood Bullet: [Rime Coated Rounds]
+  Stonewake: [Supremacy of Stone, Return from Dust]
+  Magnetize: [Liquid Magnetism, Radioactivity]
+  Mercurize: [Morbidity, Retrograde]
+  Death Clock: [Stopwatch, Sundial]
+equipment:
+  - Conjuration Tome
+  - Iron Legion's Banner
+  - Lightning Tether
+  - Sonic Shields
+  - The North Pole
+  - Solid Steel Staff
+  - Galvanic Armor
+  - Brisingamen
+  - Chelation Claw
+  - Chalice of Iron

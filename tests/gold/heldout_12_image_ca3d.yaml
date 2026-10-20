@@ -1,0 +1,24 @@
+record_id: image-ca3d72e6d81c8c75.png
+split: heldout
+notes: >
+  Watcher Form / Void Beam build. "Annihilate: Mega Annihilate" is the Purchases log; the
+  central Annihilate + Mega Annihilate are just before Learn a Spell. Dragon Claw appears twice
+  (hotkey + central), with no upgrades.
+spells:
+  Lightning Bolt: [Energy Bolt, Electric Ink]
+  Watcher Form: [Void Watcher Form, Holy Watcher Form]
+  Dragon Claw: []
+  Void Beam: [Void Curse, Void Pulse]
+  Silver Spear: [Copper Shaft]
+  Annihilate: [Mega Annihilate]
+equipment:
+  - Earthtroll Armor
+  - Lightning Staff
+  - Unblinking Eye
+  - Razoreye
+  - Robe of Rifts
+  - Holy Tome
+  - Keraunos
+  - Multicolored Rage Rod
+  - The Dynamo
+  - Travellers Shoes

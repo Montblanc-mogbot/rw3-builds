@@ -1,0 +1,33 @@
+record_id: image-2f5e68f5a4c8061b.png
+split: heldout
+notes: >
+  Ten-spell build. "68 Blink" / "1 Multicast" / "26 Word of Chaos" are hotkey/casts lines;
+  "Word of Chaos: Echoing Chaos" is the Purchases log; the central Word of Chaos + Echoing Chaos
+  sit just before Learn a Spell. "Storn Front" = Storm Front (Chill Wind upgrade).
+spells:
+  Fireball: []
+  Torrent: [Dangerous Debris, Water Bend]
+  Blinding Light: [Searing Light]
+  Volcanic Eruption: []
+  Thunder Strike: []
+  Chill Wind: [Harsh Winds, Storm Front]
+  Blink: [Thunderblink]
+  Flame Burst: [Dual Burst, Spreading Flame]
+  Multicast: [Preparedness]
+  Word of Chaos: [Echoing Chaos]
+equipment:
+  - Nature Tome
+  - Sorcery Staff
+  - Arch Sorcerer's Staff
+  - Blooming Wand
+  - Vial of Ambrosia
+  - Sorcery Tome
+  - Channeler's Focus
+  - Echo Staff
+  - Book of Chaos
+  - Travellers Shoes
+  - Stormtroll Armor
+  - Tundra Mantle
+  - Boreal Armor
+  - Brain Hat
+  - Stagnation Basin

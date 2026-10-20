@@ -1,0 +1,32 @@
+record_id: 20F8A71-17cb74a8b520c739.JPG
+split: heldout
+notes: >
+  Phone photo (.JPG). The first central spell is wrapped across two lines ("Chain" /
+  "Lightning") and its upgrades Cloud Conductance + Lightning Shield follow. Hotkey list 2..9
+  with charges. "Henocorruptor" = Hemocorruptor. Many "N Upgrade(s) Available" notices.
+spells:
+  Chain Lightning: [Cloud Conductance, Lightning Shield]
+  Boiling Blood: []
+  Healing Light: [Purifying Light, Shielding Light]
+  Rain Storm: [Living Rain, Healing Rain]
+  Stonewake: [Crystalline Core]
+  Flock of Eagles: [Thunder Claw]
+  Call Archon: []
+  Purity: [Crusader, Aura of Purity]
+  Blink: []
+equipment:
+  - Sorcery Staff
+  - Enchantment Staff
+  - Enchantment Tome
+  - Banner of the Horde
+  - Nature Tome
+  - Enchanters Boon
+  - Nature Staff
+  - Pulse Accelerator
+  - Conjuration Staff
+  - Holy Staff
+  - Prism of Shattered Sensations
+  - Horn of the Wild Hunt
+  - Hemocorruptor
+  - Shepherd's Staff
+  - Winged Shoes

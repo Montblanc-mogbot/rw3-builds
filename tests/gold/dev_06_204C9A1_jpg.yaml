@@ -1,0 +1,23 @@
+record_id: 204C9A1-80a4e89cc61224a3.JPG
+split: dev
+notes: >
+  Ten-spell build. Shield Burn: Death Shock is the only owned candidate parent. "Robe of" +
+  "'Agony" = Robe of Agony. "Rift"/"Staff" could be Rift Key Staff or Rift Breaker + a staff
+  wrap - uncertain. The Dynamo + KKSSLL**** is the Desired list. "Twili"/"Gaze" is the hotkey
+  pane wrapping Twilight Gaze.
+spells:
+  Wolf: []
+  Stonewake: [Supremacy of Stone, Return from Dust, Crystalline Core, Orb Guardians]
+  Mass Calcification: [Bone Shards]
+  Vampiric Gaze: [Toxic Gaze, Vampiric Tax, Refracting Gaze, Coagulation]
+  Purity: []
+  Twilight Gaze: [Piercing Gaze, Shrouded Twilight]
+  Death Shock: [Shield Burn]
+  Arc Lightning: [Invigoration, Proton Storm]
+  Blink: []
+  Lightning Bolt: []
+equipment: [Nature Staff, Sorcery Staff, Dark Tome, Red Obsidian Shard, Pulse Accelerator, Necrostatic Staff,
+            Crisis Charm, Robe of Agony, Charm Of Vigor, Vial of Ambrosia, Brain Hat, Lightning Staff,
+            Philosopher's Stone]
+uncertain:
+  equipment: [Rift Key Staff, Rift Breaker]

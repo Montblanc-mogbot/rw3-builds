@@ -1,0 +1,33 @@
+record_id: FirstWin-3df5327a33ea4f7f.PNG
+split: heldout
+notes: >
+  Shield Burn: Death Shock is the only owned candidate parent. "Echo" ... "Mage" (two separate
+  lines near Multicast) = Echo Mage, a Multicast upgrade; "Slippery Hex" ... "Dagger" (last
+  lines) = Slippery Hex Dagger. "342 Fireball" is the casts list (Chain Fireball) - not owned.
+  OCR: Sorcery Tone, Robe of Storns.
+spells:
+  Lightning Bolt: [Stormbolt]
+  Chain Lightning: [Chain Fireball, Jolting Chain]
+  Dominate: [Death Lord]
+  Death Shock: [Fire Shock, Shield Burn, Shocking Momentum]
+  Blink: []
+  Lifedrain: []
+  Ion Tentacles: [Growing Power, Bloody Tendrils]
+  Soul Tax: []
+  Multicast: [Echo Mage, Multi Mastery]
+equipment:
+  - Echo Staff
+  - Chaos Links
+  - Enchantment Staff
+  - Sorcery Tome
+  - Runic Hourglass
+  - Slippery Hex Dagger
+  - Amulet of Emerald Flame
+  - Talking Hat
+  - Sorcery Staff
+  - Pyrostatic Oculus
+  - Vial of Ambrosia
+  - Disintegrator
+  - Titan's Bane
+  - Robe of Storms
+  - Soulmail

@@ -1,0 +1,31 @@
+record_id: image-cddb41a6e8d8c596.png
+split: heldout
+notes: >
+  Magic Missile build (Manamancer trial). Blindcasting: Blink is the only owned candidate parent.
+  "Violent" + a lone "Warp" much later = Violent Warp (Disperse; the prefix is unique in the
+  catalog). Damage-to-Enemies lines ("9775 Magic Missile", "17790 Fae Thorn") are not build items.
+spells:
+  Summon Blade: [Ritual of Blades, Serrated Blades, Bladeworks, Swords of Light]
+  Essence Flux: [Essence Degradation, Essence Stabilizer]
+  Blink: [Dissolution, Blindcasting]
+  Disperse: [Protective Warp, Violent Warp]
+  Magic Missile: [Arcane Crossfire, Ricochet]
+  Faehaunt Garden: []
+  Arcane Warding: [Transmutation Ward]
+  Void Beam: [Void Curse]
+  Petrify: [Arcane Conductivity]
+equipment:
+  - Sonic Shields
+  - Hypno Bauble
+  - Fae Thorn Staff
+  - Glittering Dancer's Robes
+  - Arcane Staff
+  - Void Traveler's Cloak
+  - Finger 6
+  - Arcane Frenzy Mask
+  - Dream Thief Diadem
+  - Alchemist
+  - Void Oculus
+  - Multimancer's Staff
+  - Crystal Oculus
+  - Stone Curse Doll

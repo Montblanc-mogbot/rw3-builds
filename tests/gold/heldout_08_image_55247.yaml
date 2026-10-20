@@ -1,0 +1,32 @@
+record_id: image-55247f259f75631e.png
+split: heldout
+notes: >
+  Dread Lash necro build; many "N Upgrade(s) Available" notices, some split ("2" / "Upgrades
+  Available"). Word of Undeath is an equipment-granted spell that still has a central entry +
+  upgrade. "Marksman" ... "Cap" (last line) = Marksman Cap.
+spells:
+  Dragon Claw: [Frenzied Swipes]
+  Summon Bone Knights: [Bone Squadron]
+  Dread Lash: [Dread Lord, Razor Lash, Dreadful Secret, Web of Fear]
+  Wave of Dread: []
+  Ride Drake: []
+  Word of Undeath: [Word of Dominion]
+  Dominate: [Conqueror, Death Lord]
+  Demonic Ritual: []
+equipment:
+  - Dark Tome
+  - Brain Hat
+  - Shepherd's Staff
+  - Solid Steel Staff
+  - Arch Sorcerer's Staff
+  - Echo Staff
+  - The Bladestaff
+  - Sorcery Staff
+  - Necrostatic Staff
+  - Necrosis Blade
+  - Dragon Hunter's Sigil
+  - Cleric
+  - Book of Death
+  - Metallic Tome
+  - Necromancer's Staff
+  - Marksman Cap

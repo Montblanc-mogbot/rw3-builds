@@ -1,0 +1,15 @@
+record_id: 2015DF1-b42a4029a19e78e9.JPG
+split: dev
+notes: >
+  Nature/ruin build (phone photo). "Claw Staff" plus a lone "Icy" after Learn a Spell is probably
+  Icy Claw Staff but could be Flaming Claw Staff - uncertain. "Blooning Wand" = Blooming Wand.
+spells:
+  Giant Bear: [Mauler, Blood Bear]
+  Invoke Savagery: [Nature's Wrath, Savage Leap]
+  Ruinous Offering: [Panoply of Ruin, Ruinous Gate, Sanguine Renewal, Blessing of Ruin]
+  Purity: [Aura of Purity]
+  Dream the Starwhale: [Starbask, Shatterstar]
+equipment: [Conjuration Tome, Nature Staff, Multimancer's Staff, Charm Of Vigor, Pulse Accelerator, Conjuration Staff,
+            Blooming Wand, Finger 6, Ice Caller Staff, Enchantment Staff, Crisis Charm, Timelord's Staff]
+uncertain:
+  equipment: [Icy Claw Staff, Flaming Claw Staff]

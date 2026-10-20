@@ -1,0 +1,90 @@
+{
+  "app_js_live": {
+    "commit": "13051a575a08f170b454c3883fa4e5783b02d296",
+    "local": false,
+    "path": "site/app.js",
+    "repo": "hpp3/rw3",
+    "sha256": "c36b27b478d8d5418b94652c28c44a9b0c5b8bad1353fc9b45f25c822aea8b5a",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/13051a575a08f170b454c3883fa4e5783b02d296/site/app.js"
+  },
+  "catalog_2026-06-05": {
+    "commit": "e477605760ae13a18ab89102e1c08e1e514bace2",
+    "local": false,
+    "path": "site/data.json",
+    "repo": "hpp3/rw3",
+    "sha256": "5cc03737e8e3eaec0911ba1be5fa6e189617c252fb510852c13d848437485ad6",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/e477605760ae13a18ab89102e1c08e1e514bace2/site/data.json"
+  },
+  "catalog_2026-06-06": {
+    "commit": "62f8c55b5681f7270ae11f44156e6f5485234f1a",
+    "local": false,
+    "path": "site/data.json",
+    "repo": "hpp3/rw3",
+    "sha256": "01a6a4fe1a3e8e08b7cf962fdfc7e76d664cbee2e4005803f7f673b8d8b922f8",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/62f8c55b5681f7270ae11f44156e6f5485234f1a/site/data.json"
+  },
+  "catalog_2026-06-11": {
+    "commit": "7844c816e1b303edb3cc22172658f7831507bcfe",
+    "local": false,
+    "path": "site/data.json",
+    "repo": "hpp3/rw3",
+    "sha256": "e434b35eb56812c14381f5e3d4ef556318ac918e8352be4defc9b4d56243cd09",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/7844c816e1b303edb3cc22172658f7831507bcfe/site/data.json"
+  },
+  "catalog_2026-06-24": {
+    "commit": "06f394815e7a420406924ad229acf79af02846e3",
+    "local": false,
+    "path": "site/data.json",
+    "repo": "hpp3/rw3",
+    "sha256": "387e965ac6430f7addabe88d048ebe0887c885c99961807764bf952be7d35cf9",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/06f394815e7a420406924ad229acf79af02846e3/site/data.json"
+  },
+  "catalog_2026-07-01": {
+    "commit": "3dab8bd7114aae6f4c71065c62d253e3700af863",
+    "local": false,
+    "path": "site/data.json",
+    "repo": "hpp3/rw3",
+    "sha256": "b458bab297ce8ee177d9c4f78e85412c7e475fa7339bb5108c773a91ddacc97f",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/3dab8bd7114aae6f4c71065c62d253e3700af863/site/data.json"
+  },
+  "catalog_2026-07-20": {
+    "commit": "b149eddd296f8886fc9cad1963221fc920cfed83",
+    "local": false,
+    "path": "site/data.json",
+    "repo": "hpp3/rw3",
+    "sha256": "2212069293397c16ec012fd8d11a4fa3db67a7662b4b429c4afb9981ce57fe07",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/b149eddd296f8886fc9cad1963221fc920cfed83/site/data.json"
+  },
+  "catalog_live": {
+    "commit": "13051a575a08f170b454c3883fa4e5783b02d296",
+    "local": false,
+    "path": "site/data.json",
+    "repo": "hpp3/rw3",
+    "sha256": "4bf9c9cc345961b11178889a1fe8b207ab7a916b566993a834deddb16c4a2466",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/13051a575a08f170b454c3883fa4e5783b02d296/site/data.json"
+  },
+  "ids_live": {
+    "commit": "13051a575a08f170b454c3883fa4e5783b02d296",
+    "local": false,
+    "path": "ids.json",
+    "repo": "hpp3/rw3",
+    "sha256": "75618151c067bb048ad43f8f44ae48f593b29ed7fb9948df28028dae73543d1b",
+    "url": "https://raw.githubusercontent.com/hpp3/rw3/13051a575a08f170b454c3883fa4e5783b02d296/ids.json"
+  },
+  "loc_keys": {
+    "commit": "8b259d611c406153ed1cafe2f446c099c631c7be",
+    "local": false,
+    "path": "keys.json",
+    "repo": "MengUkal/rift-wizard-3-chinese-localization",
+    "sha256": "2cd3eb1ed928c00e6f52469ca7654f6ef396bb9d593e5200fc6cb03c0dc9db84",
+    "url": "https://raw.githubusercontent.com/MengUkal/rift-wizard-3-chinese-localization/8b259d611c406153ed1cafe2f446c099c631c7be/keys.json"
+  },
+  "raw_ocr": {
+    "commit": "80d5d39acb756fc9ed6ebaf08ff95b082655e066",
+    "local": false,
+    "path": "RW3_wins_data_07.08.26 RAW.txt",
+    "repo": "theverbivore/RW3-WinData.fan",
+    "sha256": "1cb26a87f2cd3c5b45d97d064a462774edec876287a553d81cfce1a6e53a2f81",
+    "url": "https://raw.githubusercontent.com/theverbivore/RW3-WinData.fan/80d5d39acb756fc9ed6ebaf08ff95b082655e066/RW3_wins_data_07.08.26%20RAW.txt"
+  }
+}

@@ -1,0 +1,26 @@
+record_id: MAN_AN-7f73cdd4d5d290cc.png
+split: heldout
+notes: >
+  Simple five-spell build. OCR errors: Stampede Forn, Torin Burst, Herbal Renedy. "Endless" with
+  a lone "Fury" near the end could be Endless Fury (Boiling Blood) but "Endless" alone matches six
+  upgrades - marked uncertain. Desired list (Nature Staff, Timelord's Staff) follows Craft/Learn.
+spells:
+  Poison Sting: []
+  Stampede Form: [Ironhide, Heavyweights]
+  Boiling Blood: [Combustion Point]
+  Ironize: [Armor Plating]
+  Toxin Burst: [Herbal Remedy, Naphtha Accelerant]
+equipment:
+  - Horn of the Wild Hunt
+  - Enchantment Tome
+  - Pulse Accelerator
+  - Pyrophilia Locket
+  - Iron Legion's Banner
+  - Enchantment Staff
+  - Ranger
+  - Robe of Fire
+  - Timestriders
+  - Quill Staff
+  - Fae Plate
+uncertain:
+  pairs: ["Boiling Blood::Endless Fury"]

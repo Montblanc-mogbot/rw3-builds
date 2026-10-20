@@ -1,0 +1,21 @@
+record_id: rbktf9vmnsf9k7z-94077664e7e86af7.png
+split: dev
+notes: >
+  Holy build (Sanctumancer trial). The left-pane header OCR'd as a bare "Spells" (idx 19).
+  Quickcast: Blinding Light is the only owned candidate. "228 Immolate" / "35 Blazerip" appear
+  only in the Spell Casts list (cast by equipment) - not owned. "Crisis Charn" = Crisis Charm.
+  Added after first evaluation (annotator miss, reviewed): "Unending" sits inside the Status
+  Effects list beside "Channeling (11)" and "Song" is the last line, so Unending Song (Choir of
+  Angels) cannot be confirmed from text - uncertain.
+spells:
+  Holy Fire: [Heaven Call, Holy Smite, Tithe Of The Fallen, Divine Blaze]
+  Call Seraph: [Quickened Seraphs, Moonblade, Healing Aura, Holy Fire Aura]
+  Blinding Light: [Searing Light, Halting Light, Angelic Visions, Quickcast]
+  Ritual of Revelation: [The Witness]
+  Sanction: [Stripped Bare, Divine Rebuke]
+  Choir of Angels: [Song of Salvation]
+  Soul Tax: [Insta Tax, Arcane Taxation]
+equipment: [The Purifier, Holy Staff, Book of Revelation, Scales of Virtuous Sin, Draupnir, Purity Oculus,
+            Heavenrender, Twilight Lantern, Vial of Ambrosia, Blood Tome, Crisis Charm]
+uncertain:
+  pairs: ["Choir of Angels::Unending Song"]

@@ -1,0 +1,22 @@
+record_id: p7bw21qqp2s86h4-92f57f30b99ce3d3.png
+split: dev
+notes: >
+  Huge eight-spell build (Wild Magic trial); the spell column runs to idx 137, far past Craft
+  Equipment. Arcane Warding is wrapped ("Arcane"/"Warding"). Lines 100-125 interleave the
+  Purchases log (Valkyrie, Stormtroll Armor, Earthwrath, ...) with the central spell column;
+  Valkyrie appears only there, never in the central Equipment column -> uncertain.
+  "Storntiell"/"Armor" inside the Equipment column is probably Stormtroll Armor -> uncertain.
+spells:
+  Fireball: [Shaped Blast, Chaos Ball, Ash Ball, Meteor]
+  Melt: [Melting Point, Mass Melt, White Flame]
+  Chain Lightning: [Jolting Chain, Cloud Conductance, Chain Fireball, Lightning Shield]
+  Lightning Form: [Crackling Aura, Lingering Form, Gathering Momentum, Fire Form]
+  Purity: [Sin Eater, Depravity, Crusader, Aura of Purity]
+  Arcane Warding: [Transmutation Ward, Soul Thief, Amplifier Ward, Energy Absorber]
+  Sanction: [Divine Rebuke, Exiled One, Mass Sanction, Stripped Bare]
+  Multicast: [Echo Mage, Preparedness, Spell Weaving, Multi Mastery]
+equipment: [Magic Wand, Archangel's Armor, Molten Carapace, Robe of Rifts, Philosopher's Stone, Battlemage Staff,
+            Titan's Bane, Fire Frenzy Mask, Travellers Shoes, Earthwrath, Arch Sorcerer's Staff, Sorcery Staff,
+            Boreal Armor]
+uncertain:
+  equipment: [Valkyrie, Stormtroll Armor]

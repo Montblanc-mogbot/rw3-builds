@@ -1,0 +1,17 @@
+record_id: char_sheet-d8b8ce1d825f2321.png
+split: dev
+notes: >
+  Sorcery/fire build. Quickcast: Teleport is the only owned candidate parent. Upgrades for
+  Pillar of Fire are spread across the interleave (Channeled Flame .. Orbital Bombardment).
+spells:
+  Blood Bullet: [Blessed Blood]
+  Annihilate: [Comprehensive Annihilation, Cascade]
+  Flame Burst: [Bright Flame]
+  Pillar of Fire: [Channeled Flame, Disrupting Flames, Pillar of Annihilation, Orbital Bombardment]
+  Furnace of Sorcery: [Flames of Sorcery]
+  Vampiric Gaze: [Toxic Gaze]
+  Disperse: []
+  Teleport: [Quickcast]
+equipment: [Blazing Wand, Magic Wand, Mourning Bell, Draupnir, Wrath Links, Solid Steel Staff, Conjuration Staff,
+            Spark Conductor, Fae Plate, Electroplasm Ampule, Disintegrator, Robe of Twilight, Galvanic Armor,
+            Coruscating Wand, Sorcery Staff]

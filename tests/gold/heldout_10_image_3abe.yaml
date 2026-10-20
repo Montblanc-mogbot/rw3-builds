@@ -1,0 +1,28 @@
+record_id: image-3abe3b2b79a30fa2.png
+split: heldout
+notes: >
+  Holy/Archon build. Shield Burn: Siphon Shields is the only owned candidate parent (no Magic
+  Missile / Death Shock). "Storn Archon" = Storm Archon (Call Archon). "Immortality" + a lone
+  "Mass" at the end probably = Mass Immortality (Suspend Mortality), but "Immortality" is also
+  the tail of Bastion of Immortality - uncertain. Learn a Spell split ("Learn" / "Spell (S)").
+spells:
+  Dragon Claw: []
+  Call Archon: [Beam Arc, Storm Archon]
+  Disperse: []
+  Suspend Mortality: [Mortality Deferred]
+  Purity: [Sin Eater, Crusader]
+  Siphon Shields: [Retributive Siphon, Shield Burn]
+equipment:
+  - Lightning Staff
+  - Holy Staff
+  - Ice Caller Staff
+  - Shepherd's Staff
+  - Sandals of Virtuous Sin
+  - Staff of Heaven's Vengeance
+  - Robes of Virtuous Sin
+  - Boreal Armor
+  - Charm Of Vigor
+  - Conjuration Tome
+  - Holy Tome
+uncertain:
+  pairs: ["Suspend Mortality::Mass Immortality"]

@@ -1,0 +1,38 @@
+record_id: image-0f325b6ca40bd8e7.png
+split: heldout
+notes: >
+  Two Quickcast lines; both Teleport and Blinding Light are owned, so neither Quickcast can be
+  tied to a parent from the text (line order suggests Teleport then Blinding Light, but the
+  columns interleave) - both pairs are marked uncertain. Fireball appears only as "72 Fireball"
+  / "4298 Fireball" (casts/damage lists; Chain Lightning's Chain Fireball upgrade casts it) -
+  not owned.
+spells:
+  Lightning Bolt: []
+  Chain Lightning: [Chain Fireball]
+  Heaven's Wrath: [Culling, Fiery Wrath]
+  Thunder Strike: []
+  Teleport: []
+  Purity: []
+  Blinding Light: [Halting Light]
+  Carnival of Pain: []
+  Pyrostatic Curse: [Resistance Melting]
+  Arc Lightning: []
+equipment:
+  - Lightning Tome
+  - Lightning Staff
+  - Sorcery Staff
+  - Storm Wand
+  - Travellers Shoes
+  - Annihilator Staff
+  - Molten Carapace
+  - Sunforged Iris
+  - Keraunos
+  - Battlemage Staff
+  - Disintegrator
+  - Robe of Storms
+  - Galvanic Armor
+  - Arch Sorcerer's Staff
+  - Metallurgy Mitts
+  - Wrath Links
+uncertain:
+  pairs: ["Teleport::Quickcast", "Blinding Light::Quickcast"]

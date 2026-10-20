@@ -1,0 +1,17 @@
+record_id: 1783466409-80e72f2c69570a30.png
+split: dev
+notes: >
+  Combat-summary layout (no Outcome line; "Oner" trial = a single spell). Learn a Spell comes
+  very early (idx 24); the Equipment column continues until Craft Equipment (idx 63).
+  "Wizard" ... "Gang" probably = Wizard Gang (Summon Wizard) - uncertain. "Storn Drake" inside
+  the short spell window is most likely the ally-damage list (a summoned drake), and Storm Drake /
+  Void Drake later are ally stats - Storm Drake uncertain. "Flagellant's" ... "Cup" =
+  Flagellant's Cup.
+spells:
+  Summon Wizard: [Dragon Wizard]
+equipment: [Drakenstaff, Ankh, Arcane Staff, Sonic Shields, Shepherd's Staff, Fae Plate, Magic Minion Shield,
+            Jade Shard, Earthmeld Boots, Arcane Tome, Amphisbaena Ring, The Bladestaff, Banner of the Horde,
+            Flagellant's Cup, Earthtroll Armor, Conjuration Tome, Conjuration Staff]
+uncertain:
+  spells: [Storm Drake]
+  pairs: ["Summon Wizard::Wizard Gang"]

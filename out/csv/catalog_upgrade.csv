@@ -1,0 +1,791 @@
+upgrade_id,spell_id,name,sp_id,name_shared_with_other_spells
+1,1,Absorption,1,0
+2,120,Accelerated Decay,581,0
+3,133,Acid Rain,646,0
+4,126,Acidity,611,0
+5,71,Aelf Horde,939,0
+6,7,Aether Poison,31,0
+7,158,Aether Queen,768,0
+8,9,Aether Swap,41,0
+9,50,Aftershocks,246,0
+10,83,All the King's Horses,401,0
+11,4,Amplifier Ward,16,0
+12,8,Angelic Visions,36,0
+13,117,Anima Reclaimed,566,0
+14,138,Anima Thief,671,0
+15,117,Anima's Vengeance,567,0
+16,192,Animated Chaos,971,0
+17,139,Arbiter's Revelation,954,0
+18,3,Arc Welder,11,0
+19,7,Arcane Assassin,32,0
+20,124,Arcane Conductivity,601,0
+21,105,Arcane Crossfire,506,0
+22,38,Arcane Drain,186,0
+23,70,Arcane Eyebolts,346,0
+24,177,Arcane Gaze,858,0
+25,94,Arcane Insulation,456,0
+26,127,Arcane Refraction,616,0
+27,139,Arcane Revelation,955,0
+28,26,Arcane Storm,126,0
+29,156,Arcane Taxation,758,0
+30,157,Arcane Wind,763,0
+31,55,Archon Eye,271,0
+32,95,Armageddon Court,461,0
+33,5,Armageddon Foretold,21,0
+34,94,Armor Plating,457,0
+35,5,Armor of Armageddon,22,0
+36,137,Armored Drake,666,0
+37,73,Armored Polar Bear,356,0
+38,76,Armored Skulls,371,0
+39,67,Army of Eagles,331,0
+40,144,Ascension,696,0
+41,62,Ash Ball,306,0
+42,170,Assassinate,823,0
+43,118,Assimilation Mastery,571,0
+44,2,Assured Destruction,6,0
+45,150,Astral Spear,726,0
+46,130,Aura of Purity,631,0
+47,51,Banishment,251,0
+48,83,Baphomet's Horde,402,0
+49,81,Bastion of Immortality,391,0
+50,20,Beam Arc,96,0
+51,191,Beauty of Steel,966,0
+52,65,Belly Flop,321,0
+53,15,Berserker Rage,71,0
+54,167,Black Rider's Seal,959,0
+55,165,Bladeworks,803,0
+56,17,Blazing Spear,81,0
+57,11,Blessed Blood,51,0
+58,142,Blessing of Ruin,686,0
+59,9,Blindcasting,42,1
+60,145,Blindcasting,701,1
+61,173,Blindcasting,838,1
+62,183,Blindcasting,888,1
+63,10,Blinding Squall,46,0
+64,10,Blizzard Beasts,47,0
+65,10,Blizzard Harvest,48,0
+66,52,Blood Accelerant,256,0
+67,73,Blood Bear,357,0
+68,30,Blood Bolt,146,0
+69,13,Blood Freeze,61,0
+70,13,Blood Greed,62,0
+71,97,Blood Hexes,471,0
+72,97,Blood Horizon,472,0
+73,117,Blood Offerings,568,0
+74,189,Blood Reclamation,918,0
+75,107,Blood Salvage,516,0
+76,76,Blood Skull,372,0
+77,153,Blood Slime,741,0
+78,117,Blood Thief,569,0
+79,12,Blood Wall,56,0
+80,113,Blood is Power,546,0
+81,93,Bloody Tendrils,451,0
+82,13,Boiling Bloodshift,63,0
+83,174,Boiling Torrent,843,0
+84,40,Bombs Away,196,0
+85,17,Bone Ballista,82,0
+86,19,Bone Explosion,91,0
+87,107,Bone Shards,517,0
+88,16,Bone Spears,76,0
+89,166,Bone Squadron,808,0
+90,76,Bone Wheel,373,0
+91,166,Bones of Steel,809,0
+92,114,Bonus,551,0
+93,77,Boomerang Bolts,944,0
+94,38,Brain Freeze,187,0
+95,63,Bright Flame,311,0
+96,41,Brute Force,201,0
+97,121,Burning Pain,586,0
+98,56,Burning Rage,276,0
+99,176,Burst Chain,853,0
+100,95,Call to Arms,462,0
+101,22,Cantrip Burst,106,0
+102,2,Cascade,7,0
+103,149,Chain Blast,721,0
+104,24,Chain Fireball,116,0
+105,186,Chain Watcher Form,903,0
+106,125,Channeled Flame,606,0
+107,62,Chaos Ball,307,0
+108,43,Chaos Claws,211,0
+109,132,Chaos Pulse,641,0
+110,146,Chaos Seal,706,0
+111,134,Chaos Storm,651,0
+112,35,Chaos Summoner,171,0
+113,84,Chasm Dweller,406,0
+114,188,Cheat Fate,913,0
+115,116,Chilling Dream,561,0
+116,42,Chromatic Aspect,206,0
+117,153,Chromatic Oozemancer,742,0
+118,171,Chrono Boost,828,0
+119,50,Chthonic Breach,247,0
+120,61,Cindervein,301,0
+121,32,Cleaving Whirlwind,156,0
+122,88,Cloud Combustion,426,0
+123,24,Cloud Conductance,117,0
+124,179,Coagulation,868,0
+125,127,Cold Diffusion,617,0
+126,85,Cold Embrace,411,0
+127,77,Cold Fury,945,0
+128,15,Combustion Point,72,0
+129,31,Compounding Chill,151,0
+130,147,Compounding Curses,711,0
+131,2,Comprehensive Annihilation,8,0
+132,90,Conflagration,436,0
+133,41,Conqueror,202,0
+134,110,Consumptive Vapors,531,0
+135,155,Contagion,753,0
+136,37,Controlled Appetite,181,0
+137,93,Coordination,452,0
+138,150,Copper Shaft,727,0
+139,159,Copper Spikeballs,773,0
+140,34,Corpse Construct,166,0
+141,30,Corpse Explosion,147,0
+142,89,Corrosive Shard,431,0
+143,6,Cosmic Grasp,26,0
+144,115,Coven Matron,556,0
+145,99,Crackling Aura,481,0
+146,23,Crowd Participation,111,0
+147,123,Crumbling Aura,596,0
+148,130,Crusader,632,0
+149,135,Cryostorm,656,0
+150,69,Crystal Eyes Hydra,341,0
+151,161,Crystalline Core,783,0
+152,93,Cthulhu Form,453,0
+153,79,Culling,381,0
+154,41,Cult Leader,203,0
+155,103,Curse Harvester,949,0
+156,103,Curse of Inevitability,950,0
+157,131,Cursebringer,636,0
+158,16,Cursed Bones,77,0
+159,90,Cursed Flames,932,0
+160,65,Cursed Flesh,322,0
+161,103,Cursed Vocabulary,951,0
+162,33,Daily Death,161,0
+163,118,Damage Assimilation,572,0
+164,174,Dangerous Debris,844,0
+165,119,Dark Detonation,576,0
+166,116,Dark Dream,562,0
+167,107,Dark Harvest,518,0
+168,91,Dark Swarm,441,0
+169,119,Dark Tendrils,577,0
+170,29,Darkvision,141,0
+171,188,Death Cycle,914,0
+172,136,Death Defiance,661,0
+173,41,Death Lord,204,0
+174,23,Death Power,112,0
+175,195,Death Tax,986,0
+176,12,Deep Division,57,0
+177,159,Defense System,774,0
+178,37,Demonic Appetite,182,0
+179,35,Demonic Royalty,172,0
+180,130,Depravity,633,0
+181,45,Desperation,221,0
+182,181,Detonation Beam,878,0
+183,147,Devouring Shadows,712,0
+184,125,Disrupting Flames,607,0
+185,105,Disruption Bolt,507,0
+186,9,Dissolution,43,0
+187,82,Divine Blaze,396,0
+188,143,Divine Rebuke,691,0
+189,191,Divine Symmetry,967,0
+190,5,Doombrand,23,0
+191,166,Double Hit,810,0
+192,11,Double Tap,52,0
+193,42,Dragon Lungs,207,0
+194,61,Dragon Mage,302,1
+195,75,Dragon Mage,366,1
+196,85,Dragon Mage,412,1
+197,152,Dragon Mage,736,1
+198,163,Dragon Mage,793,1
+199,182,Dragon Mage,883,1
+200,75,Dragon Saint,367,0
+201,90,Dragon Soul,437,0
+202,42,Dragon Speaker,208,0
+203,43,Dragon Tutor,212,0
+204,168,Dragon Wizard,813,0
+205,87,Drake Calling,421,0
+206,46,Dread Lord,226,0
+207,103,Dreadful Refrain,952,0
+208,46,Dreadful Secret,227,0
+209,158,Dryder Guards,769,0
+210,27,Dual Angels,131,0
+211,7,Dual Blazerip,33,0
+212,63,Dual Burst,312,0
+213,162,Dual Nova,788,0
+214,26,Dual Wind,127,1
+215,157,Dual Wind,764,1
+216,49,Earth Shaper,241,0
+217,48,Earthen Prison,236,0
+218,112,Echo Mage,541,0
+219,191,Echoing Beauty,968,0
+220,192,Echoing Chaos,972,0
+221,193,Echoing Ice,976,0
+222,194,Echoing Madness,981,0
+223,104,Ectogenesis,501,0
+224,98,Electric Ink,476,0
+225,153,Electric Slime,743,0
+226,111,Electroblade,536,0
+227,106,Electromagnetism,511,0
+228,71,Elite Aelves,940,0
+229,85,Elite Drakes,413,0
+230,91,Elite Swarm,442,0
+231,87,Embodied Vortex,422,0
+232,25,Endless Barrage,121,0
+233,15,Endless Fury,73,0
+234,193,Endless Ice,977,0
+235,91,Endless Swarm,443,0
+236,185,Endless Wall,898,0
+237,169,Endlessness,818,0
+238,56,Enduring Rage,277,0
+239,4,Energy Absorber,17,0
+240,98,Energy Bolt,477,0
+241,173,Enervate,839,0
+242,119,Engulfing Darkness,578,0
+243,160,Enraged Stampede,778,0
+244,180,Enthrall,873,0
+245,6,Environmental Destruction,27,0
+246,51,Essence Degradation,252,0
+247,182,Essence Drake,884,0
+248,51,Essence Stabilizer,253,0
+249,140,Eternal Vigil,676,0
+250,137,Evasive Maneuvers,667,0
+251,22,Evocation Amalgamation,107,0
+252,32,Execution Ledger,157,0
+253,143,Exiled One,692,0
+254,113,Explosive Power,547,0
+255,97,Exsanguinate,473,0
+256,64,Eye Gate,316,0
+257,66,Eye for an Eye,326,0
+258,53,Eye of Conflagration,261,0
+259,54,Eye of Icicles,266,0
+260,53,Eye of Immolation,262,0
+261,52,Eye of Lifedrain,257,0
+262,52,Eye of Plasmoid,258,0
+263,55,Eye of Thunder,272,0
+264,66,Eyemage,327,0
+265,29,Eyes Of Cursed Dark,142,0
+266,88,Fae Ball,427,0
+267,57,Fae Protection,281,0
+268,58,Fae Pupils,286,0
+269,59,Fan of Frostfire,291,0
+270,39,Far Sending,191,0
+271,100,Faraday Cage,486,0
+272,145,Fatebound,702,0
+273,187,Fear Spirits,908,0
+274,119,Feed the Darkness,579,0
+275,184,Feed the Flames,893,0
+276,141,Felling All Foes,681,0
+277,45,Felomancy,222,0
+278,53,Fiery Onlooker,263,0
+279,79,Fiery Wrath,382,0
+280,175,Final Touch,848,0
+281,99,Fire Form,482,0
+282,81,Fire Gaze,392,0
+283,146,Fire Harvest,707,0
+284,34,Fire Shock,167,0
+285,153,Fire Slime,744,0
+286,28,Flame Rave,136,0
+287,184,Flames of Heaven,894,0
+288,70,Flames of Sorcery,347,0
+289,175,Flametouch,849,0
+290,65,Flaming Fiend,323,0
+291,190,Fleet Footed,923,0
+292,137,Flight of the Dragons,668,0
+293,20,Flood Heralds,97,0
+294,51,Flummoxed,254,0
+295,44,Forceful Roar,216,0
+296,138,Forest of Flying Daggers,672,0
+297,132,Forking Cascade,642,0
+298,184,Fortress of Flame,895,0
+299,167,Four Horsemen,960,0
+300,54,Freezing,267,1
+301,89,Freezing,432,1
+302,86,Freezing Attack,416,0
+303,69,Freezing Ice,342,0
+304,43,Frenzied Swipes,213,0
+305,44,Frightening Presence,217,0
+306,68,Frostbite,336,0
+307,60,Frostfire Tormentor,296,0
+308,54,Frosty Onlooker,268,0
+309,70,Furnace of Purity,348,0
+310,58,Garden Pruning,287,0
+311,57,Gardeners,282,0
+312,71,Gate Guards,941,0
+313,64,Gatewatch,317,0
+314,148,Gather Ice,716,0
+315,99,Gathering Momentum,483,0
+316,155,Genetic Scramble,754,0
+317,72,Ghost Mass,351,0
+318,185,Glacial Excavator,899,0
+319,148,Glacial Excision,717,0
+320,111,Glaive Warden,537,0
+321,58,Glass Garden,288,0
+322,123,Glassify,597,1
+323,124,Glassify,602,1
+324,111,Glimmerblade,538,0
+325,136,Global,662,0
+326,1,Global Network,2,0
+327,168,Global Summoning,814,0
+328,19,Gluttonous Sacrifice,92,0
+329,38,Gluttony,188,0
+330,84,Gnashing Teeth,407,0
+331,83,Golden Bull,403,0
+332,36,Grand Ritual,176,0
+333,128,Grasping Vines,621,0
+334,111,Gravityblade,539,0
+335,170,Group Teleport,824,0
+336,93,Growing Power,454,0
+337,48,Guarded Entrance,237,0
+338,58,Guardian Gnomes,289,0
+339,194,Guardians of Madness,982,0
+340,52,Hag's Eye,259,0
+341,10,Hailstorm,49,0
+342,79,Halt Heretics,383,0
+343,8,Halting Light,37,0
+344,175,Hand of Death,850,0
+345,26,Harsh Winds,128,0
+346,195,Hatred of Life,987,0
+347,72,Haunting,352,0
+348,21,Healing Aura,101,0
+349,20,Healing Beam,98,0
+350,59,Healing Hearthfire,292,0
+351,133,Healing Rain,647,0
+352,78,Heartflame,376,0
+353,6,Heat Death,28,0
+354,82,Heaven Call,397,0
+355,173,Heaven Strike,840,0
+356,79,Heaven's Promise,384,0
+357,145,Heavenly Mandate,703,0
+358,160,Heavyweights,779,0
+359,115,Hellbound,557,0
+360,106,Hemomagnetism,512,0
+361,176,Herbal Remedy,854,0
+362,147,Hex Knot,713,0
+363,40,Hodophobia,197,0
+364,14,Holy Bolt,66,0
+365,21,Holy Fire Aura,102,0
+366,139,Holy Horde,956,0
+367,82,Holy Smite,398,0
+368,49,Holy Totem,242,0
+369,186,Holy Watcher Form,904,0
+370,38,Horde Mode,189,0
+371,194,Howling Void,983,0
+372,185,Hungry Wall,900,0
+373,69,Hydra Reclamation,343,0
+374,69,Hydra Regrowth,344,0
+375,185,Ice Box,901,0
+376,88,Ice Crush,428,0
+377,47,Ice Dream,231,0
+378,153,Ice Slime,745,0
+379,89,Ice Spear,433,0
+380,54,Icy Array,269,0
+381,128,Icy Prison,622,0
+382,72,Ignis Fatuus,353,0
+383,28,Ignition Principle,137,0
+384,121,Illusory Pain,587,0
+385,80,Immolating Blast,386,0
+386,75,Immortal Dragon,368,0
+387,122,Immutable Flesh,591,0
+388,70,Imp Smithy,349,0
+389,18,Impact Kickback,86,0
+390,150,Impalement,728,0
+391,196,Incubation Exposure,928,0
+392,19,Indiscriminate Hunger,93,0
+393,56,Infectious Rage,278,0
+394,146,Inner Fire,708,0
+395,147,Insatiable Shadows,714,0
+396,156,Insta Tax,759,0
+397,189,Investiture,919,0
+398,3,Invigoration,12,0
+399,84,Invincible Maw,408,0
+400,36,Inviolate Ritual,177,0
+401,55,Ionized Sight,273,0
+402,160,Ironhide,780,0
+403,150,Irresistible Strike,729,0
+404,94,Jagged Armor,458,0
+405,168,Jealousy,815,0
+406,24,Jolting Chain,118,0
+407,80,Judgement,387,0
+408,172,Junk Golems,833,0
+409,193,Killer Cold,978,0
+410,171,Killing Tempo,829,0
+411,18,Kinetic Conservation,87,0
+412,166,Knightmares,811,0
+413,61,Lava Born,303,0
+414,183,Lava Coat,889,0
+415,97,Life Funnel,474,0
+416,12,Lifesteal,58,1
+417,23,Lifesteal,113,1
+418,32,Lightning Cleave,158,0
+419,100,Lightning Nova,487,0
+420,24,Lightning Shield,119,0
+421,131,Linear Conductance,637,0
+422,99,Lingering Form,484,0
+423,14,Lion Saviors,67,0
+424,106,Liquid Magnetism,513,0
+425,133,Living Rain,648,0
+426,31,Lockjaw,152,0
+427,120,Locus of Chaos,582,0
+428,81,Lonely Idol,393,0
+429,29,Long Night,143,0
+430,141,Lord of Rot,682,0
+431,160,Loyalty,781,0
+432,56,Lycanthropy,279,0
+433,74,Maggot Host,361,0
+434,196,Magic Eggs,929,0
+435,149,Magnetized Shards,722,0
+436,50,Magnitude 8.0,248,0
+437,178,Make Entrance,863,0
+438,159,Manufactory,775,0
+439,32,Marked for Death,159,0
+440,16,Marrow Conduction,78,0
+441,5,Mass Armaments,24,0
+442,101,Mass Blasting,491,0
+443,31,Mass Death Chill,153,0
+444,37,Mass Feeding,183,0
+445,68,Mass Freeze,337,0
+446,169,Mass Immortality,819,0
+447,108,Mass Melt,521,0
+448,143,Mass Sanction,693,0
+449,144,Mass Scourge,697,0
+450,156,Mass Taxation,760,0
+451,27,Massive Chorus,132,0
+452,73,Mauler,358,0
+453,42,Measured Breathing,209,0
+454,104,Mechanogenesis,502,0
+455,2,Mega Annihilate,9,0
+456,25,Mega Barrage,122,0
+457,63,Melting Flame,313,0
+458,108,Melting Point,522,0
+459,72,Memorialize,354,0
+460,109,Mercurial Temper,526,0
+461,109,Mercurial Vengeance,527,0
+462,91,Metal Swarm,444,0
+463,62,Meteor,308,0
+464,183,Meteor Shower,890,0
+465,129,Mind Harvester,626,0
+466,48,Mineral Shielding,238,0
+467,172,Minion Recycling,834,0
+468,96,Mismatch,466,0
+469,49,Mobile Menhir,243,0
+470,21,Moonblade,103,0
+471,109,Morbidity,528,0
+472,169,Mortality Deferred,820,0
+473,3,Multi Flash,13,0
+474,112,Multi Mastery,542,0
+475,113,Mystic Arcanum,548,0
+476,176,Naphtha Accelerant,855,0
+477,92,Nature's Wrath,446,0
+478,141,Necrotic Gaze,683,0
+479,116,Nightmare Flood,563,0
+480,115,Nightmare Hag,558,0
+481,29,Nightstalkers,144,0
+482,40,Num Targets,198,0
+483,113,Occult Power,549,0
+484,151,Ocular Lensing,731,0
+485,152,Oozing Trail,737,0
+486,161,Orb Guardians,784,0
+487,125,Orbital Bombardment,608,0
+488,107,Osseous Amalgam,519,0
+489,95,Ouranic Knights,463,0
+490,159,Overclocked Assembly,776,0
+491,114,Overwatch,552,0
+492,74,Pain Aura,362,0
+493,121,Pain Seeker,588,0
+494,144,Painful Lesson,698,0
+495,167,Pale Rider's Seal,961,0
+496,83,Pandemonium Party,404,0
+497,124,Panic,603,0
+498,142,Panoply of Ruin,687,0
+499,28,Paralyzing Combustion,138,0
+500,129,Parasitic Growth,627,0
+501,102,Particle Storm,496,0
+502,167,Peal of Thunder,962,0
+503,55,Penetrating Gaze,274,0
+504,123,Perfect Stillness,598,0
+505,94,Permanent Transmutation,459,0
+506,133,Personal Storms,649,0
+507,177,Piercing Gaze,859,0
+508,125,Pillar of Annihilation,609,0
+509,16,Piston Spears,79,0
+510,110,Plague Bringer,532,0
+511,40,Planar Travel,199,0
+512,108,Plasmify,523,0
+513,86,Polar Aura,417,0
+514,112,Preparedness,543,0
+515,127,Prismatic Pulse,618,0
+516,53,Promethean Eye,264,0
+517,39,Protective Warp,192,0
+518,3,Proton Storm,14,0
+519,129,Psychic Fields,628,0
+520,78,Purifying Light,377,0
+521,131,Pyrostatic Chaos,638,0
+522,134,Pyrostatic Storm,652,0
+523,186,Pyrostatic Watcher Form,905,0
+524,8,Quickcast,38,1
+525,68,Quickcast,338,1
+526,164,Quickcast,798,1
+527,170,Quickcast,825,1
+528,178,Quickcast,864,1
+529,21,Quickened Seraphs,104,0
+530,180,Quickening,874,0
+531,96,Rabid Bite,467,0
+532,196,Radiant Eggs,930,0
+533,90,Radiant Heat,438,0
+534,100,Radioactive Field,488,0
+535,106,Radioactivity,514,0
+536,45,Radius,223,0
+537,134,Rain of Dragons,653,0
+538,155,Rainbow Slimes,755,0
+539,44,Rallying Roar,218,0
+540,155,Rapid Decomposition,756,0
+541,129,Rapid Evolution,629,0
+542,110,Rapid Growth,533,0
+543,140,Rapturous Sight,677,0
+544,190,Ravenous Wolf,924,0
+545,148,Razor Ice,718,0
+546,46,Razor Lash,228,0
+547,122,Reality Hold,592,0
+548,7,Reality Rip,34,0
+549,167,Red Rider's Seal,963,0
+550,179,Refracting Gaze,869,0
+551,68,Refreezing,339,0
+552,66,Regenerating Shields,328,0
+553,136,Regenerative Goop,663,0
+554,74,Reincarnation,363,0
+555,86,Reincarnations,418,0
+556,22,Relentless Cascade,108,0
+557,149,Remote Detonation,723,0
+558,98,Repeater Bolts,478,0
+559,37,Resistance Absorption,184,0
+560,177,Resistance Debuff,860,0
+561,131,Resistance Melting,639,0
+562,101,Resistance Penetration,492,0
+563,172,Restless Turning,835,0
+564,86,Restorative Phoenix,419,0
+565,151,Retributive Siphon,732,0
+566,109,Retrograde,529,0
+567,161,Return from Dust,785,0
+568,178,Return to Hell,865,0
+569,105,Ricochet,508,0
+570,11,Rime Coated Rounds,53,0
+571,100,Ring of Fire,489,0
+572,165,Ritual of Blades,804,0
+573,174,Ritual of Carcinization,845,0
+574,188,Ritual of Death,915,0
+575,134,Ritual of Explosions,654,0
+576,187,Ritual of Gnawing Dread,909,0
+577,171,Ritual of Haste,830,0
+578,77,Ritual of Malevolence,946,0
+579,33,Ritual of Mortality,162,0
+580,78,Ritual of Rejuvenation,378,0
+581,47,Ritual of Stars,232,0
+582,162,Ritual of Storms,789,0
+583,110,Ritual of Suffocation,534,0
+584,87,Ritual of Winter,423,0
+585,44,Roar of Anguish,219,0
+586,59,Roaring Flames,293,0
+587,124,Rocky Servitude,604,0
+588,141,Rot Feast,684,0
+589,128,Rot Growth,623,0
+590,142,Ruinous Gate,688,0
+591,96,Running Start,468,0
+592,142,Sanguine Renewal,689,0
+593,92,Savage Leap,447,0
+594,92,Savage Spree,448,0
+595,196,Scale Harvest,931,0
+596,74,Scape Goats,364,0
+597,144,Scourged Exile,699,0
+598,64,Searing Gate,318,0
+599,8,Searing Light,39,0
+600,146,Searing Rebuke,709,0
+601,194,Selective Madness,984,0
+602,136,Self Healing,664,0
+603,165,Serrated Blades,805,0
+604,43,Serrated Steel Claws,214,0
+605,62,Shaped Blast,309,0
+606,188,Shared Misfortune,916,0
+607,157,Shared Soul,765,0
+608,148,Shattered Sorrows,719,0
+609,47,Shatterstar,233,0
+610,80,Shield,388,0
+611,34,Shield Burn,168,1
+612,105,Shield Burn,509,1
+613,151,Shield Burn,733,1
+614,81,Shield Gaze,394,0
+615,151,Shield Steal,734,0
+616,67,Shielded Eagles,332,0
+617,78,Shielding Light,379,0
+618,182,Shields,885,0
+619,14,Shimmermane,68,0
+620,34,Shocking Momentum,169,0
+621,25,Shockwaves,123,0
+622,50,Shrapnel Quake,249,0
+623,177,Shrouded Twilight,861,0
+624,45,Sickening Pulse,224,0
+625,126,Silk Shot,612,0
+626,130,Sin Eater,634,0
+627,6,Singularity Crush,29,0
+628,76,Skull Sentry,374,0
+629,31,Slaughter Chill,154,0
+630,149,Slicing Shrapnel,724,0
+631,18,Slime Ammo Pouch,88,0
+632,154,Slime Chucker,748,0
+633,1,Slime Drinking,3,0
+634,95,Slime Knights,464,0
+635,154,Slime Rust,749,0
+636,152,Slime Tank,738,0
+637,18,Slimepacolypse,89,0
+638,154,Slimification Shot,750,0
+639,1,Slimy Mimic,4,0
+640,116,Slumbering Aura,564,0
+641,25,Smart Bolts,124,0
+642,11,Sniper's Trance,54,0
+643,127,Softened Light,619,0
+644,36,Solomon's Binding,178,0
+645,27,Song of Salvation,133,0
+646,30,Soul Battery,148,0
+647,138,Soul Blades,673,0
+648,157,Soul Death,766,0
+649,156,Soul Debt,761,0
+650,35,Soul Hunger,173,0
+651,4,Soul Thief,18,0
+652,115,Spear Hag,559,0
+653,118,Spell Exhaustion,573,0
+654,118,Spell Sampling,574,0
+655,112,Spell Weaving,544,0
+656,101,Spire Network,493,0
+657,80,Spirit Bind,389,0
+658,132,Spirit Calling,643,0
+659,163,Spirit Drakes,794,0
+660,102,Spirit Harvest,497,0
+661,162,Spirit Nova,790,0
+662,121,Spirits of Pain,589,0
+663,145,Spreading Curse,704,0
+664,63,Spreading Flame,314,0
+665,181,Star Beam,879,0
+666,47,Starbask,234,0
+667,64,Starfire Gate,319,0
+668,126,Stinger Barrage,613,0
+669,126,Stinging Rebuke,614,0
+670,49,Stinging Totem,244,0
+671,66,Stone Gaze,329,0
+672,48,Stonefisher,239,0
+673,33,Stopwatch,163,0
+674,20,Storm Archon,99,0
+675,164,Storm Boon,799,0
+676,26,Storm Front,129,0
+677,173,Storm Power,841,0
+678,89,Storm Spike,434,0
+679,163,Storm Summoning,795,0
+680,164,Storm Surge,800,0
+681,154,Storm Transmutation,751,0
+682,87,Storm Vortex,424,0
+683,98,Stormbolt,479,0
+684,135,Stormbringer,657,0
+685,163,Stormcrest,796,0
+686,162,Stormshield,791,0
+687,137,Strafing Run,669,0
+688,143,Stripped Bare,694,0
+689,17,Stun Spear,83,0
+690,192,Stunning Word,973,0
+691,189,Sturdy Construction,920,0
+692,88,Subzero Ice,429,0
+693,19,Sufficient Sacrifice,94,0
+694,14,Summon Lamasu,69,0
+695,57,Summon Queen,283,0
+696,33,Sundial,164,0
+697,128,Super Max,624,0
+698,102,Supercell,498,0
+699,61,Superheated Flames,304,0
+700,114,Superior Sight,933,0
+701,161,Supremacy of Stone,786,0
+702,102,Surestrike,499,0
+703,152,Swamp Dweller,739,0
+704,165,Swords of Light,806,0
+705,135,Tempest Drakes,658,0
+706,171,Temporal Mastery,831,0
+707,122,Temporal Reinforcement,593,0
+708,36,The Gate and the Key,179,0
+709,139,The Witness,957,0
+710,184,Thickened Wall,896,0
+711,67,Thunder Claw,333,0
+712,135,Thunder God,659,0
+713,9,Thunderblink,44,0
+714,82,Tithe Of The Fallen,399,0
+715,60,Tithes of Torment,297,0
+716,23,Torment,114,0
+717,60,Tormenting Mass,298,0
+718,60,Torturer's Brand,299,0
+719,175,Touch of the Vampire,851,0
+720,28,Toxic Embers,139,0
+721,179,Toxic Gaze,870,0
+722,77,Toxic Hatred,947,0
+723,13,Toxic Shift,64,0
+724,17,Toxic Spear,84,0
+725,104,Toxogenesis,503,0
+726,4,Transmutation Ward,19,0
+727,75,Treasure Seekers,369,0
+728,178,Tremorsensitivity,866,0
+729,22,Triple Tap,109,0
+730,122,True Permanence,594,0
+731,114,Truesight,553,0
+732,12,Twilight Divide,59,0
+733,169,Twilight Essence,821,0
+734,15,Twilight Fury,74,0
+735,35,Ultimate Form,174,0
+736,71,Unassailable Gates,942,0
+737,27,Unending Song,134,0
+738,191,Unmarred Beauty,969,0
+739,90,Unquenchable Flames,439,0
+740,120,Unraveling Curse,583,0
+741,140,Unseen Dreamers,678,0
+742,172,Unstable Undead,836,0
+743,96,Unstoppable Juggernaut,469,0
+744,132,Unstoppable Pulse,644,0
+745,67,Untouchable Majesty,334,0
+746,158,Urticating Hairs,770,0
+747,158,Vampire Queen,771,0
+748,180,Vampiric Regent,875,0
+749,179,Vampiric Tax,871,0
+750,195,Vampiric Word,988,0
+751,73,Venom Bear,359,0
+752,92,Venomous Bite,449,0
+753,39,Violent Warp,193,0
+754,114,Vision Aura,554,0
+755,181,Void Curse,880,0
+756,84,Void Maw,409,0
+757,182,Void Mutations,886,0
+758,181,Void Pulse,881,0
+759,39,Void Sickness,194,0
+760,153,Void Slime,746,0
+761,170,Void Teleport,826,0
+762,186,Void Watcher Form,906,0
+763,140,Waking The Witness,679,0
+764,101,Wall Penetration,494,0
+765,183,Wallcano,891,0
+766,174,Water Bend,846,0
+767,187,Wave of Tyranny,910,0
+768,164,Weathered Traveler,801,0
+769,46,Web of Fear,229,0
+770,138,Weighted Knives,674,0
+771,190,Werewolf,925,0
+772,108,White Flame,524,0
+773,167,White Rider's Seal,964,0
+774,180,Wicked Fangs,876,0
+775,59,Wildfire,294,0
+776,187,Wilting Wave,911,0
+777,30,Winter Bolt,149,0
+778,57,Winter Faery,284,0
+779,85,Winterbringer,414,0
+780,176,Withertoxin,856,0
+781,189,Wizard Colossus,921,0
+782,168,Wizard Gang,816,0
+783,190,Wolf Pack,926,0
+784,192,Word of Destruction,974,0
+785,195,Word of Dominion,989,0
+786,193,Word of Wind,979,0
+787,120,World Breaker,584,0
+788,104,Worm Host,504,0
+789,65,Worm Lord,324,0
+790,123,Wormification Aura,599,0

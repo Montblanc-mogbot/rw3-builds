@@ -1,0 +1,35 @@
+record_id: image-58cad4a9ef490e0d.png
+split: heldout
+notes: >
+  Spell Casts list with number prefixes in the right pane ("692 Melt", "131 Immolate",
+  "1 Lightning Forn"). Immolate appears ONLY there (cast by equipment) - not owned. Lightning
+  Form's own central line is not cleanly readable ("Lightning" at idx 23), but its upgrades
+  Lingering Form and "Crackling" (+ "Aura" much later) are central. Earthwrath sits just before
+  Craft Equipment and is also in the Purchases log; Timestriders + AETW* is the Desired list.
+spells:
+  Lightning Bolt: []
+  Chain Lightning: [Lightning Shield]
+  Lightning Form: [Lingering Form, Crackling Aura]
+  Arc Lightning: [Arc Welder, Multi Flash]
+  Melt: [White Flame]
+  Pyrostatic Curse: [Pyrostatic Chaos, Linear Conductance]
+  Annihilate: [Cascade, Comprehensive Annihilation]
+  Siphon Shields: []
+equipment:
+  - Lightning Tome
+  - Lightning Staff
+  - Sorcery Staff
+  - Storm Wand
+  - Battlemage Staff
+  - The Dynamo
+  - Sorcery Tome
+  - Pyrostatic Oculus
+  - Titan's Bane
+  - Galvanic Armor
+  - Travellers Shoes
+  - Metallic Tome
+  - Talking Hat
+  - Magic Wand
+  - Galvanic Focus
+  - Searing Eye Stone
+  - Earthwrath

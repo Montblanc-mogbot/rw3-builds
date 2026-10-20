@@ -1,0 +1,18 @@
+record_id: image-015374d9ab2dc1c4.png
+split: dev
+notes: >
+  Nature build. The first spell is wrapped ("Poison" ... "Sting" at the very end). "Stinging
+  Toten" = Stinging Totem (Earthen Sentinel upgrade); "Paralyzing Venon" = Paralyzing Venom
+  (equipment). "Necromancer" inside the Equipment column is the companion or the trial name -
+  uncertain.
+spells:
+  Poison Sting: [Acidity, Stinging Rebuke]
+  Earthen Sentinel: [Stinging Totem, Mobile Menhir]
+  Earthquake: [Magnitude 8.0, Shrapnel Quake]
+  Rain Storm: [Living Rain, Acid Rain]
+  Torrent: [Water Bend, Boiling Torrent]
+equipment: [Nature Staff, Robe of the Druids, Amulet Of Collected Agony, Blooming Wand, Blood Shield,
+            Paralyzing Venom, Brain Hat, Disintegrator, Earthwrath, Treelord Staff, The Boiler, Rain Beacon,
+            Haunted Blood Vial, Stagnation Basin, Wound Rot Amulet]
+uncertain:
+  equipment: [Necromancer]

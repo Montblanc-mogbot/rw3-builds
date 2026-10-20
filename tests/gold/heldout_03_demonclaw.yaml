@@ -1,0 +1,35 @@
+record_id: demonclaw_win-a2bc070fd41c4dd9.png
+split: heldout
+notes: >
+  Very long spell column: Learn a Spell is split ("Learn" / "Spell (S)") at idx 124, so the
+  spell column runs far past Craft Equipment, alongside Damage-to-Enemies, Resistances and the
+  Purchases log. Spell Casts list (right pane) repeats spells with and without numbers
+  ("49 Dragon Claw", "Arcane"/"Warding"). Quickcast: Underworld Passage is the only owned
+  candidate parent. Jaculus Idol / Eye of Tantu are the Desired list (after Craft, recipe stars).
+  "Enchantment Tone" = Enchantment Tome.
+spells:
+  Dragon Claw: [Chaos Claws, Frenzied Swipes, Dragon Tutor, Serrated Steel Claws]
+  Demon Form: [Ultimate Form, Chaos Summoner, Demonic Royalty, Soul Hunger]
+  Devour Flesh: [Resistance Absorption, Demonic Appetite]
+  Underworld Passage: [Quickcast, Return to Hell, Tremorsensitivity]
+  Purity: []
+  Arcane Warding: [Transmutation Ward, Amplifier Ward]
+  Ruinous Offering: [Ruinous Gate, Sanguine Renewal, Blessing of Ruin]
+  Carnival of Pain: []
+  Ride Drake: []
+  Shadow Hex: [Compounding Curses, Insatiable Shadows]
+equipment:
+  - Fae Plate
+  - Earthtroll Armor
+  - Dragonclaw Sabatons
+  - Paladin
+  - Cold Iron Heart
+  - Dark Tome
+  - Codex of Chaotic Evolution
+  - Boreal Armor
+  - Woadwyrd
+  - Enchantment Tome
+  - Mask of Nihilo
+  - Prism of Shattered Sensations
+  - Armor Melter
+  - Enchantment Staff

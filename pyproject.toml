@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rw3builds"
+version = "0.1.0"
+description = "Turn OCR'd Rift Wizard 3 victory screenshots into a searchable database of winning builds"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.0", "rapidfuzz>=3.0", "pyyaml>=6.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+rw3builds = "rw3builds.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

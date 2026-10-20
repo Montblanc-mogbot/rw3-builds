@@ -1,0 +1,34 @@
+record_id: Screenshot_2026-06-14_155111-fb23a02e3c27d0f5.png
+split: heldout
+notes: >
+  Heavy rn/m OCR noise (Storn Drake, Storn Wand, Storn Beacon, Lightning Forn, Gathering Monentum).
+  Hotkey list 1-8 interleaved (index/charges number lines). "Lightning Spire: Resistance" +
+  "Penetration" is the Purchases log (right pane); the central Lightning Spire is followed by
+  "Resistance Penetration" at line idx 83. "Frenzied"/"Swipes" is one wrapped upgrade.
+  Jaculus Idol / Eye of Tantu sit after Craft Equipment with recipe-star lines -> Desired list.
+  "Amphisbaena" twice with no "Ring" line: the Amphisbaena Ring wrap lost its second line.
+spells:
+  Lightning Bolt: []
+  Storm Drake: [Dragon Mage, Storm Summoning]
+  Chain Lightning: [Lightning Shield, Cloud Conductance]
+  Dragon Claw: [Serrated Steel Claws, Dragon Tutor, Frenzied Swipes, Chaos Claws]
+  Rain of Thunderbolts: [Tempest Drakes]
+  Lightning Form: [Gathering Momentum, Lingering Form]
+  Heaven's Wrath: []
+  Lightning Spire: [Resistance Penetration]
+equipment:
+  - Storm Wand
+  - Coruscating Wand
+  - Helm of the Host
+  - Boreal Armor
+  - Basilisk Scale Armor
+  - Galvanic Focus
+  - Molten Carapace
+  - Lightning Tome
+  - Storm Beacon
+  - Sonic Shields
+  - Dragon Knight
+  - Storm Caller Staff
+  - Talking Hat
+uncertain:
+  equipment: [Amphisbaena Ring]
