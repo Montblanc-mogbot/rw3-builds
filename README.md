@@ -49,6 +49,25 @@ python -m venv .venv && .venv/bin/pip install -e '.[dev]'
 | | `inferred` | The parent spell itself was only inferred |
 | | `probable` | Positional rule; currently disabled by calibration |
 
+## Google Sheet viewer
+
+[RW3 Builds](https://docs.google.com/spreadsheets/d/1zy1UheY0slhMtVXuQdh5WNN5rVqbx-N-44pJheBYpXM/edit)
+imports `out/sheet/*.tsv` from this repo's `main` branch with `IMPORTDATA`, and every count in it is
+a formula over the Builds tab.
+- **Search:** type or pick any spell or equipment name to see its share of wins, its upgrades
+  (verified / inferred / unresolved), the spells and equipment seen with it, and the matching
+  builds with compendium links.
+- **Spells, Upgrades, Equipment:** pick rates over all countable wins.
+
+To refresh the sheet:
+
+```bash
+.venv/bin/python -m rw3builds run && .venv/bin/python -m rw3builds.export_sheet
+git add out && git commit -m "Refresh data" && git push
+```
+
+GitHub's raw CDN and Sheets both cache, so a push can take a few minutes to show up.
+
 ## Schema
 
 ```
